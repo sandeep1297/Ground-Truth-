@@ -179,4 +179,4 @@ AI_Creative_Studio_Assets.zip
 
 The **AI Creative Studio** delivers a fully-automated, production-ready creative generation pipeline for marketing teams, brands, and e-commerce applications.
 
-Start generating stunning AI creatives from a single product image — instantly!
+Start generating stunning AI creatives from a single product image instantly!
