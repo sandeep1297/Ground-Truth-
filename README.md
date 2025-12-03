@@ -87,8 +87,8 @@ cd [YOUR_REPO_NAME]
 
 ### **2. Create & Activate Virtual Environment (Windows)**
 ```bash
-python -m venv ai_creative_studio_env
-.i_creative_studio_env\Scriptsctivate
+python -m venv H003
+.H003\Scriptsctivate
 ```
 
 ### **3. Install Dependencies**
